@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="jogodavelhaonline:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jogodavelhaonline_jar</output-path>
+    <root id="archive" name="jogodavelhaonline.jar">
+      <element id="module-output" name="jogodavelhaonline" />
+    </root>
+  </artifact>
+</component>
